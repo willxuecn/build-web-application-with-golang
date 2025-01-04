@@ -1,15 +1,19 @@
 # Multiple Language Versions
 
+* [(HTML - PDF) on GitBook](https://astaxie.gitbooks.io/build-web-application-with-golang)
+* [Deutsch](de/preface.md)
 * [English](en/preface.md)
-* [French](fr/preface.md)
-* [Spanish](es/preface.md)
-* [中文](zh/preface.md)
-* [日本語](ja/preface.md)
-* [Turkish](tr/preface.md)
+* [Español](es/preface.md)
+* [Français](fr/preface.md)
 * [Português - Brasil](pt-br/preface.md)
-* [German](de/preface.md)
 * [Русский](ru/preface.md)
+* [Türkçe](tr/preface.md)
 * [বাংলা](bn/preface.md)
+* [日本語](ja/preface.md)
+* [简体中文](zh/preface.md)
+* [正體中文](zh-tw/preface.md)
+* [پارسی](fa/preface.md)
+* [ภาษาไทย](th/preface.md)
 
 # Donate
 
@@ -20,9 +24,9 @@ English Donate:[donate](http://beego.me/donate)
 ## Community
 QQ群：148647580
 
-BBS：[http://golanghome.com/](http://gocn.io/)
+BBS：[http://gocn.io/](http://gocn.io/)
 
-##Contributors
+## Contributors
 
 - See [contributors page](https://github.com/astaxie/build-web-application-with-golang/graphs/contributors) for full list of contributors.
 
